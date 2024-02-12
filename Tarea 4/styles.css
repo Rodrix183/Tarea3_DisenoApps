@@ -4,8 +4,9 @@
 
 .nav{
     background-color: grey;
-    padding-left: 0%; 
-    margin-bottom: 6%;   
+    padding-left: 0%;     
+    margin-left: 5%;
+    width: 94.2%;
 }
 
 #fondoTrasero{    
@@ -27,10 +28,16 @@
     margin-bottom: 8%;
 }
 
-.carousel-control-prev{
-    padding-top: 50%;
+.carousel-item{
+height: 500px;
+object-fit: cover;
 }
 
-.carousel-control-next{
-    padding-top: 50%;
+.card-img-top{
+    height: 400px;
+    object-fit: cover;    
+}
+
+.mb-3{    
+    margin-top: 12%;
 }
