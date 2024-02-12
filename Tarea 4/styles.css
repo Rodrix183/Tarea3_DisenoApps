@@ -1,0 +1,36 @@
+#logoBarra{
+    width: 10%;
+}
+
+.nav{
+    background-color: grey;
+    padding-left: 0%; 
+    margin-bottom: 6%;   
+}
+
+#fondoTrasero{    
+    background-color: black;
+}
+
+#fondoTrasero2{
+    background-color: blanchedalmond;
+    margin-left: 3%;
+    margin-right: 3%;    
+}
+
+#carouselExample{
+    width: 45%;
+    margin-left: 25%;    
+}
+
+.col{
+    margin-bottom: 8%;
+}
+
+.carousel-control-prev{
+    padding-top: 50%;
+}
+
+.carousel-control-next{
+    padding-top: 50%;
+}
