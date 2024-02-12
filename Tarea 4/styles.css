@@ -7,6 +7,15 @@
     padding-left: 0%;     
     margin-left: 5%;
     width: 94.2%;
+    
+}
+
+/*Color y fuente del texto de navbar*/
+.nav-link{
+    color: antiquewhite;
+    padding: 50px;
+    font-size: 200%;
+    font-style: italic;
 }
 
 #fondoTrasero{    
@@ -29,8 +38,8 @@
 }
 
 .carousel-item{
-height: 500px;
-object-fit: cover;
+    height: 300px;
+    object-fit: cover;
 }
 
 .card-img-top{
